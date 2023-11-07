@@ -11,15 +11,12 @@
 <img alt = "react" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt = "PHP" src ="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img alt = "MYSQL" src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-
-
+<img alt = ".net" src ="https://res.cloudinary.com/practicaldev/image/fetch/s--RKHCWMhA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/.NET-5C2D91%3Fstyle%3Dfor-the-badge%26logo%3D.net%26logoColor%3Dwhite">
 </div>
 
 ## Tecnologias que tenho interesse
 <div style="display: inline_block"><br>
 <img alt = "laravel" src ="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img alt = ".net" src ="https://res.cloudinary.com/practicaldev/image/fetch/s--RKHCWMhA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/.NET-5C2D91%3Fstyle%3Dfor-the-badge%26logo%3D.net%26logoColor%3Dwhite">
-
 </div>
 
 
